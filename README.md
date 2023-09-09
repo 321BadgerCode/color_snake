@@ -25,13 +25,19 @@ Snake Game is a classic arcade game where you control a snake to collect food an
 	git clone https://github.com/321BadgerCode/color_snake.git
 	```
 
-2. Compile the Java source files:
+1. Change into the repo's directory:
+
+	```bash
+	cd ./color_snake/
+	```
+ 
+1. Compile the Java source files:
 
 	```bash
 	javac *.java
 	```
 
-3. Run the game:
+1. Run the game:
 
 	```bash
 	java SnakeGame
