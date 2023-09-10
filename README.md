@@ -4,6 +4,7 @@
 	<img alt="Snake Gameplay" src="./ex.png"/>
 </p>
 
+![Gif Example](./new.gif)  
 [![Video Example](./ex.png)](https://github.com/321BadgerCode/color_snake/assets/83559316/adeff446-7327-4ebc-a691-5fa00217b68f)
 
 ## Description
